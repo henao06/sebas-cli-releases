@@ -4,7 +4,7 @@
 > Funciona en **Linux**, **macOS** y **Windows**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/henao06/edex-ui/main/src/imagen/img_app_square.png" alt="Sebas CLI Logo" width="200"/>
+  <img src="img_app_square.png" alt="Sebas CLI Logo" width="200"/>
 </p>
 
 ---

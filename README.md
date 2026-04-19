@@ -17,7 +17,17 @@ Los binarios se actualizan automaticamente con cada cambio. Descargar desde:
 
 ---
 
-## Instalar en Linux
+## Instalacion
+
+<p align="center">
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#linux) [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](#macos) [![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#windows)
+
+</p>
+
+---
+
+## Linux
 
 ### Paso 1 — Descargar el AppImage
 
@@ -128,13 +138,15 @@ echo "Sebas CLI actualizado."; fi
 sudo rm -rf /opt/sebas-cli /usr/local/bin/sebas-cli /usr/share/applications/sebas-cli.desktop
 ```
 
+[![Volver arriba](https://img.shields.io/badge/Volver_arriba-gray?style=flat)](#instalacion)
+
 ---
 
-## Instalar en macOS
+## macOS
 
 ### Paso 1 — Descargar el .dmg
 
-Desde la pagina de releases descargar el archivo `*.dmg`.
+Desde la [pagina de releases](https://github.com/henao06/sebas-cli-releases/releases/tag/latest) descargar el archivo `*.dmg`.
 
 ### Paso 2 — Instalar
 
@@ -154,13 +166,15 @@ Buscar **"Sebas CLI"** en Launchpad o Spotlight (`Cmd+Space`).
 rm -rf /Applications/Sebas\ CLI.app
 ```
 
+[![Volver arriba](https://img.shields.io/badge/Volver_arriba-gray?style=flat)](#instalacion)
+
 ---
 
-## Instalar en Windows
+## Windows
 
 ### Paso 1 — Descargar el instalador
 
-Desde la pagina de releases descargar el archivo `*Windows*.exe`.
+Desde la [pagina de releases](https://github.com/henao06/sebas-cli-releases/releases/tag/latest) descargar el archivo `*Windows*.exe`.
 
 ### Paso 2 — Instalar
 
@@ -178,9 +192,10 @@ Doble click en el acceso directo del escritorio o buscar **"Sebas CLI"** en el m
 
 **Configuracion > Aplicaciones > Sebas CLI > Desinstalar**
 
+[![Volver arriba](https://img.shields.io/badge/Volver_arriba-gray?style=flat)](#instalacion)
+
 ---
 
 ## Creditos
 
 Basado en [eDEX-UI](https://github.com/GitSquared/edex-ui) por Gabriel Saillard (MIT).
-
